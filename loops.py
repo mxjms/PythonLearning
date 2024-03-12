@@ -1,5 +1,4 @@
 # While Loops
-
 count = 0
 
 while count < 10 :
